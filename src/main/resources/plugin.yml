@@ -1,0 +1,10 @@
+name: ServerDocument
+api: ["1.0.9"]
+version: 0.0.1
+main: net.mydeacy.serverdocument.ServerDocument
+author: MyDeacy
+description: View text files from server (Nukkit)
+commands:
+  sd:
+    description: open document directory.
+    usage: /sd
