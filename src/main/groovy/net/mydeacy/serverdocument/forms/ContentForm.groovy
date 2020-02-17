@@ -5,7 +5,6 @@ import cn.nukkit.form.element.ElementButton
 import cn.nukkit.form.response.FormResponseSimple
 import cn.nukkit.form.window.FormWindowSimple
 import net.mydeacy.serverdocument.util.ElementManager
-import net.mydeacy.serverdocument.util.elements.FileElement
 import net.mydeacy.serverdocument.util.elements.interfaces.TextFile
 
 class ContentForm extends FormWindowSimple implements ServerDocumentForm {

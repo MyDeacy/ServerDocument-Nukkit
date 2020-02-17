@@ -1,14 +1,10 @@
 package net.mydeacy.serverdocument.forms
 
 import cn.nukkit.Player
-import cn.nukkit.event.player.PlayerFormRespondedEvent
 import cn.nukkit.form.element.ElementButton
-import cn.nukkit.form.element.ElementButtonImageData
-import cn.nukkit.form.response.FormResponse
 import cn.nukkit.form.response.FormResponseSimple
 import cn.nukkit.form.window.FormWindowSimple
 import net.mydeacy.serverdocument.util.ElementManager
-import net.mydeacy.serverdocument.util.elements.DirectoryElement
 import net.mydeacy.serverdocument.util.elements.interfaces.Directory
 import net.mydeacy.serverdocument.util.elements.interfaces.TextFile
 
